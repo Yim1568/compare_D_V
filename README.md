@@ -11,7 +11,7 @@ my_gaines_motor.hoc
 my_gaines_sensory.hoc
 
 #  
-stim_bipha_square_gap.hoc contains the stimulation waveform and parameters.  
+stim_bipha_square.hoc contains the stimulation waveform and parameters.  
 
 #  
 The rx folder contains the rx_xtra values for each fiber. Run the following Python code to call the extracellular mechanism for stimulation.  
