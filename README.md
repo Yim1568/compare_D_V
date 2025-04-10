@@ -1,4 +1,4 @@
-# compare_D_V
+# Compare_D_V
 
 #
 The motor and sensory axon models are based on the framework of the MRG model and the ion channels provided by Gaines.  
