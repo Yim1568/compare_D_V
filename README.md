@@ -7,8 +7,8 @@ Before using the axon models, the mod files need to be compiled.
 https://senselab.med.yale.edu/ModelDB/showmodel.cshtml?model=3810#tabs-1.  
 https://modeldb.science/243841?tab=1  
 
-my_gaines_motor.hoc
-my_gaines_sensory.hoc
+motor_fiber.hoc
+sensory_fiber.hoc
 
 #  
 stim_bipha_square.hoc contains the stimulation waveform and parameters.  
